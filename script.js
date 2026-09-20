@@ -139,6 +139,8 @@ async function respond(text){
 function getGreeting(){
   return "Salut 👋 Je suis l'assistant d'Abdoulaye Ouattara. Pose-moi tes questions sur ses services (stratégie digitale, community building, marketing digital, montage vidéo, développement web & mobile), ses marques accompagnées, ou comment le contacter.";
 }
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9192280002676126"
+     crossorigin="anonymous"></script>
 
 /* ---------------------------------------------------------------------
    Base de connaissances locale : mots-clés -> réponse.
